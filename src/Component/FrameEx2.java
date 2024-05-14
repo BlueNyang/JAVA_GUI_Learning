@@ -5,7 +5,7 @@ import java.awt.*;
 public class FrameEx2 extends Frame{
     Button btn;
     TextField tf1, tf2, tf3, tf4;
-    TextArea ta1, ta2;
+    TextArea ta1;
     Checkbox ch1, ch2;
     CheckboxGroup cg;
     List list;
